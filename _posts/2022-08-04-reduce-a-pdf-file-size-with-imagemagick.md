@@ -5,7 +5,7 @@ date:   2022-08-04 19:22:11 +0800
 categories: [linux]
 tags: []
 ---
-Convert and split the pdf file to image files (on my system, [Imagemagick](https://imagemagick.org/) is called with the `convert` command):
+Convert and split the pdf file to image files (on my system, Imagemagick is called with the `convert` command):
 
 ```terminal
 $ convert -density 100 input_file.pdf -quality 90 page.jpg
