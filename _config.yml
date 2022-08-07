@@ -30,7 +30,7 @@ description: >-                        # used by seo meta and the atom feed
   Written as much for myself than for others.
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
-url: 'https://xvdd.github.io/'
+url: 'https://xvdd.github.io'
 
 github:
   username: xvdd
