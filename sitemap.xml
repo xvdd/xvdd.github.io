@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<url>
+<loc>https://xvdd.github.io/posts/reduce-a-pdf-file-size-with-imagemagick/</loc>
+<lastmod>2022-08-07T10:37:12+08:00</lastmod>
+</url>
+<url>
+<loc>https://xvdd.github.io/posts/convert-a-json-array-to-csv-with-jq/</loc>
+<lastmod>2022-08-12T23:13:55+08:00</lastmod>
+</url>
+<url>
+<loc>https://xvdd.github.io/categories/</loc>
+<lastmod>2022-08-17T09:22:21+08:00</lastmod>
+</url>
+<url>
+<loc>https://xvdd.github.io/tags/</loc>
+<lastmod>2022-08-17T09:22:21+08:00</lastmod>
+</url>
+<url>
+<loc>https://xvdd.github.io/archives/</loc>
+<lastmod>2022-08-17T09:22:21+08:00</lastmod>
+</url>
+<url>
+<loc>https://xvdd.github.io/about/</loc>
+<lastmod>2022-08-17T09:22:21+08:00</lastmod>
+</url>
+<url>
+<loc>https://xvdd.github.io/</loc>
+</url>
+<url>
+<loc>https://xvdd.github.io/categories/linux/</loc>
+</url>
+</urlset>
